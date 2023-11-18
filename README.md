@@ -17,3 +17,6 @@ This is a basic calculator application built in Java using Swing components, inc
 
 - Java Development Kit (JDK)
 - IDE for Java development (Eclipse, IntelliJ, etc.)
+
+## Image File
+![Calculator Image](Images/calculator.jpg)
